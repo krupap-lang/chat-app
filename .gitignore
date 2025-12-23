@@ -5,10 +5,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Environment files
-.env
-.env.local
-.env.development
-.env.production
 
 # Build outputs
 dist/
@@ -20,3 +16,4 @@ coverage/
 # OS
 .DS_Store
 Thumbs.db
+config.bat
